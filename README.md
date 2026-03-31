@@ -25,10 +25,6 @@ You can also consult the official Framer Motion and Next.js documentation for mo
 
 This demo app is a great starting point for adding motion to your Next.js projects and experimenting with the animation capabilities of Framer Motion.
 
-## Live Demo
-
-You can see a live demo of this project here: https://framer-motion-nextjs-five.vercel.app/
-
 ## Getting Started
 
 To get started with this project, follow these steps:
@@ -82,14 +78,3 @@ To learn more about Next.js, consider the following resources:
 
 You can also check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) for additional insights and contribute to the project.
 
-## Deploy on Vercel
-
-If you plan to deploy your Next.js app, the easiest way is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js. Vercel offers seamless deployment and hosting for your applications.
-
-For more information on deploying Next.js apps, consult the official deployment documentation:
-
-- [Next.js Deployment Documentation](https://nextjs.org/docs/deployment)
-
-Feel free to experiment with Framer Motion and enhance your Next.js application with captivating animations.
-
-Happy coding!
